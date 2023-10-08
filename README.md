@@ -30,6 +30,15 @@ Follow these steps to set up and run the project on your local machine:
  https://plotly.com/python/scattermapbox/
  https://pypi.org/project/pyproj/
 
+![plot1](img/newplot3.png)
+
+
+## Graph
+ ![plot1](img/graph.png)
+
+
+
+ 
  ```bash
   ## Clone the Repository
 
@@ -49,19 +58,11 @@ Follow these steps to set up and run the project on your local machine:
 
   pip install plotly
 
-![plot1](img/newplot3.png)
-
-
-## Graph
- ![plot1](img/graph.png)
-
 
 
 ## Contact
 
- https://github.com/Princeroy1/csv-Tree-ploting-Project, Abdul Rouf, and abdulrouf8010@gmail.com 
-
-
+ https://github.com/Princeroy1/csv-Tree-ploting-Project, Abdul Rouf, and abdulrouf8010@gmail.com
 
  
  
